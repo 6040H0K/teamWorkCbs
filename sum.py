@@ -1,2 +1,3 @@
-def summa(a, b)
+def summa(a, b):
+    # add comment
     return a+b
